@@ -2,4 +2,6 @@ apikey.txt
 .ipynb_checkpoints
 *.gdoc
 api_key.json
+/opendata/geojson/JapanCityGeoJson/
+
 
